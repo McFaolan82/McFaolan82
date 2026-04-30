@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a currently shore-bound merchant navy officer. I am an avid Gamer (mostly playing RPG's) and consider myself having a knack with software.
+While I always had a minor interest in programming, I am more inclined to learn programming since my return to sea is doubtful.
+I have chosen Python as my starting language and am going to embark on some personal projects while learning the ropes.
+I also am trying to familiarize myself with Github and its workings.
+
 <!--
 **McFaolan82/McFaolan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
