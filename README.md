@@ -1,4 +1,4 @@
-<img width="728" height="613" alt="Dwarf" src="https://github.com/user-attachments/assets/66e73288-2f52-4cf7-9a2b-8e6552aa2137" />
+
 ## Hi there 👋
 
 I'm a currently shore-bound merchant navy officer. I am an avid Gamer (mostly playing RPG's) and consider myself having a knack with software.
